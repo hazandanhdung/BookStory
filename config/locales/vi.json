@@ -1,0 +1,28 @@
+{
+  "hello": "Xin chào, {name}!",
+  "language": "Ngôn ngữ",
+  "nav": {
+    "books": "Sách",
+    "series": "Loạt",
+    "authors": "Tác giả",
+    "tags": "Thẻ",
+
+    "discover": "Phát hiện",
+    "about": "Trở về",
+    "features": "Tính năng",
+
+    "support": "Hỗ trợ",
+    "more-ebooks": "Thêm sách",
+    "faq": "Câu hỏi thường gặp",
+    "contact": "Liên Hệ",
+
+    "more": "Thêm",
+    "guides": "Hướng dẫn",
+    "languages": "Ngôn ngữ",
+    "publishers": "Nhà xuất bản",
+
+    "legal": "Hợp pháp",
+    "legality": "Tính hợp pháp",
+    "privacy": "Riêng tư"
+  }
+}
